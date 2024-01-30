@@ -1,0 +1,8 @@
+body {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    margin-bottom: 50px;
+    background-color: hsl(178, 56%, 91%);
+    font-family: 'Karla', sans-serif;
+}
